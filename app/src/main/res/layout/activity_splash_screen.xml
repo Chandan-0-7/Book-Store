@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradientcolor"
+    tools:context=".activity.SplashScreenActivity">
+
+    <ImageView
+        android:id="@+id/gifimage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:src="@drawable/book">
+
+    </ImageView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="550dp"
+        android:padding="5dp"
+        android:text="@string/noobcoders"
+        android:textAlignment="center"
+        android:textColor="#e1f5fe"
+        android:textSize="20sp"
+        android:textStyle="bold">
+
+    </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="580dp"
+        android:textAlignment="center"
+        android:text="@string/from"
+        android:padding="5dp"
+        android:textColor="#e1f5fe"
+        android:textSize="15sp"
+        android:textStyle="bold">
+
+    </TextView>
+
+</RelativeLayout>

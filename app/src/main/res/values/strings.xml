@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Book Store</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About app\n</string>
+    <string name="navigation_drawer">Book Store</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="dashboard_fragment">DashBoard</string>
+    <string name="favourites_fragment">Favourites Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="about_fragment">About Fragment</string>
+    <string name="listitem">ListItem</string>
+    <string name="name_of_the_book">Name of the book</string>
+    <string name="name_of_the_author">Name of the Author</string>
+    <string name="rs_299">Rs. 299</string>
+    <string name="_4_5">4.5</string>
+    <string name="add_to_favourites">Add to favourites</string>
+    <string name="description_of_the_book">Hello</string>
+    <string name="about_the_book">About The Book:</string>
+    <string name="author_of_the_book">Author of the Book</string>
+    <string name="Sort">sort</string>
+    <string name="noobcoders"> Book Store </string>
+    <string name="from"> from NoobCoders </string>
+</resources>
